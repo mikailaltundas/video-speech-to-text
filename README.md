@@ -1,6 +1,6 @@
-# Video Transcription with Whisper AI
+# Video Transcription with Whisper AI 🎥📝
 
-This project uses OpenAI's Whisper model to transcribe audio from video files.
+This project leverages OpenAI's Whisper model to deliver high-quality transcription of audio from video files.
 
 ## Prerequisites
 
